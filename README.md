@@ -56,6 +56,6 @@ In the future we will implement:
 
 [![Discord Bots](https://top.gg/api/widget/666151106958852116.svg)](https://top.gg/bot/666151106958852116)
 [![Bots for Discord](https://botsfordiscord.com/api/bot/666151106958852116/widget)](https://botsfordiscord.com/bots/666151106958852116)
-[![OKAI](https://bots.ondiscord.xyz/bots/666151106958852116/embed)](https://bots.ondiscord.xyz/bots/666151106958852116)
+[![OKAI](https://bots.ondiscord.xyz/bots/666151106958852116/embed?theme=dark&showGuilds=true)](https://bots.ondiscord.xyz/bots/666151106958852116)
 
 [Support bot](https://www.donationalerts.com/r/okai) | [Alternate Link](https://www.donationalerts.com/c/okai)
